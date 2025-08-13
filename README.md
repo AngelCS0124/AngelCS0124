@@ -14,12 +14,13 @@ Actualmente estudio en la Universidad Politécnica de Victoria, en la Ingenierí
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white)
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-00A2FF?logo=roblox&logoColor=white)
 
 ## 📌 Sobre mí  
 Estudiante apasionado por el desarrollo de software. Me encanta aprender cosas nuevas y enfrentar desafíos técnicos por más dificiles que parezcan. 
 
 ## 🌱 Actualmente aprendiendo  
-- Desarrollo de videojuegos con Godot Engine  
+- Desarrollo de videojuegos con Roblox Studio y Godot Engine
 - Desarrollo de aplicaciones de escritorio con JavaFX
 
 ## 📫 Contacto  
