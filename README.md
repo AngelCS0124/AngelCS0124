@@ -11,17 +11,9 @@ Actualmente estudio en la Universidad Politécnica de Victoria, en la Ingenierí
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white)
-![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-00A2FF?logo=robloxstudio&logoColor=white)
 
 ## 📌 Sobre mí  
 Estudiante apasionado por el desarrollo de software. Me encanta aprender cosas nuevas y enfrentar desafíos técnicos por más dificiles que parezcan. 
-
-## 🌱 Actualmente aprendiendo  
-- Desarrollo de videojuegos con Roblox Studio y Godot Engine
-- Desarrollo de aplicaciones de escritorio con JavaFX
 
 ## 📫 Contacto  
 ✉️ [2430124@upv.edu.mx](mailto:2430124@upv.edu.mx)  
