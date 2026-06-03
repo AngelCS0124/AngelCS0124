@@ -1,16 +1,10 @@
 # 👨‍💻 Angel Gabriel Coronado Sánchez  
 
-### 🌎 Donde estudio
+## 🌎 Donde estudio
 Actualmente estudio en la Universidad Politécnica de Victoria, en la Ingeniería de Tecnologías de la Información e Innovación Digital
 
-### 🛠️ Tecnologías  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+## 🛠️ Tecnologías  
+[![My Skills](https://skillicons.dev/icons?i=java,php,mysql,postgres,git)](https://skillicons.dev)
 
 ## 📌 Sobre mí  
 Estudiante apasionado por el desarrollo de software. Me encanta aprender cosas nuevas y enfrentar desafíos técnicos por más dificiles que parezcan. 
